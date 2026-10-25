@@ -25,6 +25,7 @@ Free, open-source and practical. Nothing here is theory.
 |---|------|--------------|---------|-------|
 | 01 | **Kokoro** | Free, natural AI voice that runs offline on any laptop | `VOICE` | [Open →](01-kokoro-voice/) |
 | 02 | **Openverse + Earshot** | Free sound effects, and an AI that hears your edit | `SOUND` | [Open →](02-sound-effects/) |
+| 03 | **Karpathy CLAUDE.md** | One file that makes Claude code like a senior engineer | `RULES` | [Open →](03-karpathy-claude-md/) |
 
 New guides land here with every new video. ⭐ **Star this repo** to follow along.
 
