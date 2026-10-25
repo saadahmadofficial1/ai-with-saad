@@ -35,3 +35,5 @@ These guides only share how I set them up and use them.
 ---
 
 <sub>Not affiliated with any of the projects listed. Market videos on my page are for education only and are not financial advice.</sub>
+
+**More from me:** [GitHub profile](https://github.com/saadahmadofficial1) · [Instagram @ai.with.saad](https://www.instagram.com/ai.with.saad/)

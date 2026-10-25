@@ -46,4 +46,4 @@ Other voices worth trying: `bm_george` (British), `am_fenrir`, `am_puck`, `bm_fa
 
 ---
 
-Follow [@ai.with.saad](https://www.instagram.com/ai.with.saad/) for one practical AI tip every day ✨
+Part of [AI With Saad](https://github.com/saadahmadofficial1/ai-with-saad) · [all my projects](https://github.com/saadahmadofficial1) · follow [@ai.with.saad](https://www.instagram.com/ai.with.saad/) ✨
