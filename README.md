@@ -1,23 +1,16 @@
-<div align="center">
-
 # AI With Saad
 
-**AI automation & workflows, built and tested in the UAE 🇦🇪**
+**Practical AI workflow guides by Saad Ahmad — AI Video Producer / Creative Technologist.**
 
-Every tool from my videos, with my exact setup, settings and notes.
-Free, open-source and practical. Nothing here is theory.
+Public setup notes and examples for AI voice, sound effects and coding-agent workflows. For recruiters: this shows how I explain tools and make workflows reproducible; it is not an employer tool library.
 
-[Instagram](https://www.instagram.com/ai.with.saad/) · [Reel covers](https://github.com/saadahmadofficial1/ai-with-saad-covers)
+**Demo:** [watch public demonstrations on Instagram @ai.with.saad](https://www.instagram.com/ai.with.saad/) · **Portfolio:** [production work](https://shorturl.at/nEIyK) · **CV:** [experience and evidence](https://github.com/saadahmadofficial1/marketing-house/blob/main/CV.md)
 
-</div>
+## Try one workflow
 
----
+Start with [Kokoro voice setup](01-kokoro-voice/README.md), download the model files listed there, then run [speak.py](01-kokoro-voice/speak.py) locally. It creates a voice WAV from your own text. Other guides cover sound search and coding-agent instructions.
 
-## How this works
-
-1. You see a tool in one of my videos.
-2. You comment the keyword and I DM you the link.
-3. Each folder here has the **why**, the **setup**, and **my exact settings**, with full credit to the original project.
+**Stack:** Markdown guides · Python · Kokoro ONNX · soundfile · Openverse/Earshot · Claude Code instructions. Each guide lists its upstream project, requirements and settings. Model downloads are separate from this repository.
 
 ## The tools
 
@@ -27,15 +20,11 @@ Free, open-source and practical. Nothing here is theory.
 | 02 | **Openverse + Earshot** | Free sound effects, and an AI that hears your edit | `SOUND` | [Open →](02-sound-effects/) |
 | 03 | **Karpathy CLAUDE.md** | One file that makes Claude code like a senior engineer | `RULES` | [Open →](03-karpathy-claude-md/) |
 
-New guides land here with every new video. ⭐ **Star this repo** to follow along.
 
-## Credits
+## Authorship and licence
 
-Every guide links to the original project and its licence. All credit for the tools goes to their authors.
-These guides only share how I set them up and use them.
+I select and test workflows, direct AI-assisted development and write/review setup instructions. Claude Code/Codex author code where used under my direction. Upstream tools belong to their authors; this repository does not claim their implementation as my work.
 
----
+Original guides and examples use [MIT](LICENSE). Third-party tools, models and downloaded assets keep their own licences; check each guide before reuse.
 
-<sub>Not affiliated with any of the projects listed. Market videos on my page are for education only and are not financial advice.</sub>
-
-**More from me:** [GitHub profile](https://github.com/saadahmadofficial1) · [Instagram @ai.with.saad](https://www.instagram.com/ai.with.saad/)
+[GitHub profile](https://github.com/saadahmadofficial1) · [Production portfolio](https://github.com/saadahmadofficial1/marketing-house) · [Reel covers](https://github.com/saadahmadofficial1/ai-with-saad-covers)
